@@ -1,4 +1,4 @@
-# Power BI Capstone – XYZ Retail (Udemy Project)
+# Power BI AdventureWorks Report
 
 ## Overview
 This repository contains the complete end‑to‑end analytics pipeline I built for a fictional retail company as part of a Udemy Power BI course
@@ -9,9 +9,6 @@ It demonstrates:
 * Modeling a star- and snowflake‑schema in Power BI.
 * Writing DAX measures for revenue, profit margin, target profit, etc.
 * Designing an interactive dashboard (maps, slicers, drill‑through pages).
-
-## How to explore the project
-Just download the file "AdventureWorks Report.pbix" and open it with PowerBI Desktop. Downloading the raw data files is optional.
 
 ## Key insights I discovered
 1. Calculated KPIs (total revenue, total profit, total orders, and return rate).
@@ -27,7 +24,10 @@ Just download the file "AdventureWorks Report.pbix" and open it with PowerBI Des
 - Building star- and snowflake schema models and writing DAX measures.
 - Designing interactive visuals (maps, drill-though line charts, bookmarks).
 
+## How to explore the project
+Just download the file "AdventureWorks Report.pbix" and open it with PowerBI Desktop. Downloading the raw data files is optional.
+
 ## Contact
-migueltyp@proton.me
-linkedin.com/in/miguelazevedo6/
-_Feel free to reach out with any questions :)_
+* migueltyo@proton.me
+* linkedin.com/in/miguelazevedo6/
+* _Feel free to reach out with any questions :)_
